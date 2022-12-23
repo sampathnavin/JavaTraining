@@ -1,0 +1,9 @@
+Synchronized : 
+Are Thread Safe 
+
+Eg : Google search engine,Amazon,Flipkart
+
+Non Synchronized : 
+
+Are Not Thread Safe
+Eg : https://www.gadgets360.com/deals/deals-of-the-day
